@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodMates</string>
+    <string name="food_banner_description">Food banner image showing various dishes</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="merchant_register">Merchant Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="merchant_login">Merchant Login</string>
+</resources>
